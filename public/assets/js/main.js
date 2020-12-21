@@ -7,7 +7,7 @@
 (function ($) {
 
 	var $window = $(window),
-		$body = $('body'),
+  $body = $('body'),
 		$nav = $('#nav');
 
 	// Breakpoints.
