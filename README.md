@@ -29,3 +29,10 @@ Simple 'hello world' index.html in public
  - View Heroku logs (Activity tab)
  - Confirm app with portfolio content is live
  Win.
+Heroku portfolio deploy link
+
+ https://portfolio-1976.herokuapp.com/
+
+ 1976 https://github.com/nassir1976/lab-05-Deploy.git
+
+

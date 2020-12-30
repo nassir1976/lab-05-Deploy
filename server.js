@@ -10,6 +10,8 @@ app.use(express.static('./public'));
 
 app.get('/hello', (request, response) => {
   response.status(200).send('Hello');
+  console.log('hello');
+
 });
 
 app.get('/data', (request, response) => {
